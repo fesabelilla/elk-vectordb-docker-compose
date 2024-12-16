@@ -42,7 +42,6 @@ docker-compose logs [service]
 ```
 
 ## Notes
-- Not for production use
 - Requires minimum 4GB RAM
 - Security features are disabled
 
